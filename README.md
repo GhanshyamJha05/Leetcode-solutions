@@ -67,13 +67,6 @@ Use any IDE or text editor to view and run the `.cpp` or `.c` files.
 
 ---
 
-## ⭐ Highlights 
-- Focus on correctness and clarity  
-- Ideal for C++ learners  
-- Interview‑oriented solutions  
-
----
-
 ## 💡 Contributing
 
 Contributions are welcome! You can help by:
